@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: socket-server
+server:
+  port: 8080
+netty:
+  port: 8090
+  boss-thread: 1
